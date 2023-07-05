@@ -1,0 +1,48 @@
+.grid div {
+    position: relative;
+}
+
+.grid div div {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.colored {
+    background-color: #a20;
+}
+
+.early-years {
+    background-color: #1188ff;
+}
+
+.elementary-school {
+    background-color: #008080;
+}
+
+.middle-school {
+    background-color: #14b515;
+}
+
+.high-school {
+    background-color: #d8d70a;
+}
+
+.college {
+    background-color: #ff8000;
+}
+
+.career {
+    background-color: #ff3b3f;
+}
+
+.retirement {
+    background-color: #8a3dcb;
+}
